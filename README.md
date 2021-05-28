@@ -4,10 +4,10 @@ Mostly slots get booked with in 30 secs after receiving notifications for most o
 | Location  | Age | Telegram Group |
 | ------------- | ------------- | ------------- |
 | Chennai  | 18+ | [Click Here](https://t.me/joinchat/Eyf1L5kpN4tkZTA9)  |
-| Bangalore Urban  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
 | Chengalpet  | 18+  | [Click Here](https://t.me/joinchat/IBc8aFmaBthmOGI1)  |
 | Kanchipuram  | 18+  | [Click Here](https://t.me/joinchat/3TFB6QX0K684ZDY1)  |
 | Thiruvallur  | 18+ | [Click Here](https://t.me/joinchat/Lve72-enCLkyYzVl)  |
+| Bangalore Urban  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
 
 Here you go !!!
 -----------
