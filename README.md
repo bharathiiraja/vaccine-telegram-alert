@@ -7,13 +7,13 @@ Mostly slots get booked with in 30 secs after receiving notifications for most o
 | Chengalpet  | 18+  | [Click Here](https://t.me/joinchat/IBc8aFmaBthmOGI1)  |
 | Kanchipuram  | 18+  | [Click Here](https://t.me/joinchat/3TFB6QX0K684ZDY1)  |
 | Thiruvallur  | 18+ | [Click Here](https://t.me/joinchat/Lve72-enCLkyYzVl)  |
-| Bangalore Urban  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
+| Bangalore  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
 
 Here you go !!!
 -----------
 * [Feedback](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
 * [Bugs](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
-* [Would like to add new location ?](https://github.com/bharathiiraja/vaccine-telegram-alert/issues/2)
+* [Wanna Add New Location ?](https://github.com/bharathiiraja/vaccine-telegram-alert/issues/2)
 
 Tech Stack !!
 -----------
