@@ -19,6 +19,11 @@ Tech Stack !!
 -----------
 * Python
 
+Limitations !
+-----------
+* Notifcations between 8 am to 10 pm IST due to server unavailablity
+* Focused only for 18+ slots and Dose 1 since more demand on this slots
+
 Stopping the spread starts with you !
 -----------
 * Wear a mask
