@@ -3,13 +3,14 @@ Mostly slots get booked with in 30 secs after receiving notifications for most o
 
 | Location  | Age | Telegram Group |
 | ------------- | ------------- | ------------- |
-| Chennai  | 18+ | [Click Here](https://t.me/joinchat/Eyf1L5kpN4tkZTA9)  |
-| Chengalpet  | 18+  | [Click Here](https://t.me/joinchat/IBc8aFmaBthmOGI1)  |
-| Kanchipuram  | 18+  | [Click Here](https://t.me/joinchat/3TFB6QX0K684ZDY1)  |
-| Thiruvallur  | 18+ | [Click Here](https://t.me/joinchat/Lve72-enCLkyYzVl)  |
-| Bangalore Urban  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
-| Bangalore Rural | 18+  | [Click Here](https://t.me/joinchat/XXx7n1reSF45NmVl)  |
-| Surat  | 18+  | [Click Here](https://t.me/joinchat/GvWCQVk6C8tmNjc1)  |
+| Chennai  | 18+ | [Join Here](https://t.me/joinchat/Eyf1L5kpN4tkZTA9)  |
+| Chengalpet  | 18+  | [Join Here](https://t.me/joinchat/IBc8aFmaBthmOGI1)  |
+| Kanchipuram  | 18+  | [Join Here](https://t.me/joinchat/3TFB6QX0K684ZDY1)  |
+| Thiruvallur  | 18+ | [Join Here](https://t.me/joinchat/Lve72-enCLkyYzVl)  |
+| Krishnagiri  | 18+ | [Join Here](https://t.me/joinchat/v1Z_ibFyL8xlNzBl)  |
+| Bangalore Urban  | 18+  | [Join Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
+| Bangalore Rural | 18+  | [Join Here](https://t.me/joinchat/XXx7n1reSF45NmVl)  |
+| Surat  | 18+  | [Join Here](https://t.me/joinchat/GvWCQVk6C8tmNjc1)  |
 
 Here you go !!!
 -----------
