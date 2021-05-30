@@ -7,7 +7,9 @@ Mostly slots get booked with in 30 secs after receiving notifications for most o
 | Chengalpet  | 18+  | [Click Here](https://t.me/joinchat/IBc8aFmaBthmOGI1)  |
 | Kanchipuram  | 18+  | [Click Here](https://t.me/joinchat/3TFB6QX0K684ZDY1)  |
 | Thiruvallur  | 18+ | [Click Here](https://t.me/joinchat/Lve72-enCLkyYzVl)  |
-| Bangalore  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
+| Bangalore Urban  | 18+  | [Click Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
+| Bangalore Rural | 18+  | [Click Here](https://t.me/joinchat/XXx7n1reSF45NmVl)  |
+| Surat  | 18+  | [Click Here](https://t.me/joinchat/GvWCQVk6C8tmNjc1)  |
 
 Here you go !!!
 -----------
