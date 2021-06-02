@@ -10,6 +10,7 @@ Mostly slots get booked with in 30 secs after receiving notifications for most o
 | Coimbatore  | 18+ | [Join Here](https://t.me/joinchat/I-DT6uIS2o44MTY1)  |
 | Krishnagiri  | 18+ | [Join Here](https://t.me/joinchat/v1Z_ibFyL8xlNzBl)  |
 | Triuppur  | 18+ | [Join Here](https://t.me/joinchat/ihlDugvHB1Y1ODBl)  |
+| Cuddalore  | 18+ | [Join Here](https://t.me/joinchat/2MMQI6Z3Jfg1MmQ1)  |
 | Bangalore Urban  | 18+  | [Join Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
 | BBMP Bangalore | 18+  | [Join Here](https://t.me/joinchat/XXx7n1reSF45NmVl)  |
 | Chitradurga | 18+  | [Join Here](https://t.me/joinchat/eqK-HIEBbBBkZGI1)  |
