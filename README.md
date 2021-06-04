@@ -1,5 +1,5 @@
 # Co-Win Vaccine Slots Availability
-Mostly slots get booked with in 30 secs after receiving notifications for most of the districts
+Mostly slots get booked with in 30 secs after receiving notifications for most of the districts. Hurry up !
 
 | Location  | Age | Telegram Group |
 | ------------- | ------------- | ------------- |
@@ -21,6 +21,7 @@ Here you go !!!
 * [Feedback](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
 * [Bugs](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
 * [Wanna Add New Location ?](https://github.com/bharathiiraja/vaccine-telegram-alert/issues/2)
+* [Home Page](https://bharathiiraja.github.io/vaccine-telegram-alert/)
 
 Tech Stack !!
 -----------
