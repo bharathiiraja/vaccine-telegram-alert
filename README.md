@@ -8,7 +8,6 @@ Here you go !!!
 * [Feedback](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
 * [Bugs](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
 * [Wanna Add New Location ?](https://github.com/bharathiiraja/vaccine-telegram-alert/issues/2)
-* [Home Page](https://bharathiiraja.github.io/vaccine-telegram-alert/)
 
 Tech Stack !!
 -----------
