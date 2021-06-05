@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Co-Win Vaccine Slots Availability
+Mostly slots get booked with in 30 secs after receiving notifications for most of the districts. Hurry up !
 
-You can use the [editor on GitHub](https://github.com/bharathiiraja/vaccine-telegram-alert/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+| Location  | Age | Telegram Group |
+| ------------- | ------------- | ------------- |
+| Chennai  | 18+ | [Join Here](https://t.me/joinchat/Eyf1L5kpN4tkZTA9)  |
+| Chengalpet  | 18+  | [Join Here](https://t.me/joinchat/IBc8aFmaBthmOGI1)  |
+| Kanchipuram  | 18+  | [Join Here](https://t.me/joinchat/3TFB6QX0K684ZDY1)  |
+| Thiruvallur  | 18+ | [Join Here](https://t.me/joinchat/Lve72-enCLkyYzVl)  |
+| Coimbatore  | 18+ | [Join Here](https://t.me/joinchat/I-DT6uIS2o44MTY1)  |
+| Krishnagiri  | 18+ | [Join Here](https://t.me/joinchat/v1Z_ibFyL8xlNzBl)  |
+| Triuppur  | 18+ | [Join Here](https://t.me/joinchat/ihlDugvHB1Y1ODBl)  |
+| Cuddalore  | 18+ | [Join Here](https://t.me/joinchat/2MMQI6Z3Jfg1MmQ1)  |
+| Bangalore Urban  | 18+  | [Join Here](https://t.me/joinchat/dJb9V7hgk6IxMGE1)  |
+| BBMP Bangalore | 18+  | [Join Here](https://t.me/joinchat/XXx7n1reSF45NmVl)  |
+| Chitradurga | 18+  | [Join Here](https://t.me/joinchat/eqK-HIEBbBBkZGI1)  |
+| Surat  | 18+  | [Join Here](https://t.me/joinchat/GvWCQVk6C8tmNjc1)  |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you go !!!
+-----------
+* [Feedback](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
+* [Bugs](https://github.com/bharathiiraja/vaccine-telegram-alert/issues)
+* [Wanna Add New Location ?](https://github.com/bharathiiraja/vaccine-telegram-alert/issues/2)
+* [Home Page](https://bharathiiraja.github.io/vaccine-telegram-alert/)
 
-### Markdown
+Tech Stack !!
+-----------
+* Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Limitations !
+-----------
+* Notifcations between 8 am to 10 pm IST due to server unavailablity
+* Focused only for 18+ slots and Dose 1 since more demand on this slots
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bharathiiraja/vaccine-telegram-alert/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stopping the spread starts with you !
+-----------
+* Wear a mask
+* Clean your hands
+* Maintain safe distance
+* Get vaccinated
