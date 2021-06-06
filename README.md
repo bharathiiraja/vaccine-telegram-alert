@@ -1,7 +1,7 @@
 # Co-Win Vaccine Slots Availability
 
 * Telegram group details available in [**Home Page**](https://bharathiiraja.github.io/vaccine-telegram-alert/)
-* Prerequiste - Telegram mobile application should be installed in your mobile
+* Prerequisite - Telegram mobile application should be installed in your mobile
 
 Here you go !!!
 -----------
