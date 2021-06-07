@@ -1,5 +1,18 @@
 #Customized Skip file list
 config.py
+tmp/
+
+# The file containing environment variables 
+.env
+
+# Ignore Logs
+logs
+*.log
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
